@@ -1,0 +1,9 @@
+# virtual environment (each teammate makes their own)
+.venv/
+
+# internal team docs (plan, notes, course PDFs)
+milestone_1 documnets/
+
+# Jupyter / Python auto-generated files
+.ipynb_checkpoints/
+__pycache__/
